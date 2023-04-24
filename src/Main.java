@@ -10,8 +10,8 @@ public class Main {
         System.out.println(groubServize.addNewGroub(groub));
         System.out.println(groubServize.addNewGroub(new Groub(1, "Js", "best",1975)));
         System.out.println(groubServize.getAllGroubs());
-        System.out.println(groubServize.getGroupById());
-
+        //System.out.println(groubServize.getGroupById());
+        
 
     }
 }
